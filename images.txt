@@ -4,36 +4,31 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nginx:latest
+
+
+
 
 --platform=linux/amd64 linuxserver/qbittorrent:4.5.2
-
---platform=linux/amd64 linuxserver/transmission:4.0.3
-
---platform=linux/amd64 iyuucn/iyuuplus
-
---platform=linux/amd64 gdy666/lucky:latest
-
---platform=linux/amd64 lswl/vertex:stable
-
---platform=linux/amd64 jxxghp/moviepilot:latest
-
---platform=linux/amd64 nyanmisaka/jellyfin:latest
-
---platform=linux/amd64 amilys/embyserver:latest
-
 --platform=linux/arm64 linuxserver/qbittorrent:4.5.2
 
+--platform=linux/amd64 linuxserver/transmission:4.0.3
 --platform=linux/arm64 linuxserver/transmission:4.0.3
 
+--platform=linux/amd64 iyuucn/iyuuplus
 --platform=linux/arm64 iyuucn/iyuuplus
 
+--platform=linux/amd64 gdy666/lucky:latest
 --platform=linux/arm64 gdy666/lucky:latest
 
+--platform=linux/amd64 lswl/vertex:stable
 --platform=linux/arm64 lswl/vertex:stable
 
+--platform=linux/amd64 jxxghp/moviepilot:latest
 --platform=linux/arm64 jxxghp/moviepilot:latest
 
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
 --platform=linux/arm64 nyanmisaka/jellyfin:latest
 
+--platform=linux/amd64 amilys/embyserver:latest
 --platform=linux/arm64 amilys/embyserver:latest
+
