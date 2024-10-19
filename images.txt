@@ -27,7 +27,6 @@
 --platform=linux/arm64 jxxghp/moviepilot:latest
 
 --platform=linux/amd64 nyanmisaka/jellyfin:latest
---platform=linux/arm64 nyanmisaka/jellyfin:latest
 
 --platform=linux/amd64 amilys/embyserver:latest
 --platform=linux/arm64 amilys/embyserver:latest
