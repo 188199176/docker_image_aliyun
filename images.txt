@@ -8,5 +8,5 @@
 
 
 
---platform=linux/amd64 linuxserver/jackett:latest
+--platform=linux/amd64 mzz2017/v2raya:latest
 
