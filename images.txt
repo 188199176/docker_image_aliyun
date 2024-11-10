@@ -8,5 +8,5 @@
 
 
 
---platform=linux/amd64 ionewu/owjdxb:latest
+--platform=linux/amd64 0nlylty/dockercopilot:ZSPACE
 
