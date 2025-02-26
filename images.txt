@@ -6,9 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-
-
-
-
 --platform=linux/amd64 ionewu/owjdxb:latest
 
