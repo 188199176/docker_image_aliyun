@@ -8,5 +8,5 @@
 
 
 
---platform=linux/amd64 snowdreamtech/frpc:latest
+--platform=linux/amd64 jxxghp/moviepilot-v2:latest
 
