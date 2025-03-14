@@ -8,5 +8,5 @@
 
 
 
---platform=linux/amd64 ionewu/owjdxb
+--platform=linux/amd64 stainless403/mdcx-builtin-gui-base:latest
 
