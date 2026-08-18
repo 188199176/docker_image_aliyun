@@ -8,4 +8,4 @@
 
 
 
---platform=linux/amd64 linuxserver/qbittorrent:5.2.3
+--platform=linux/amd64 jlesage/firefox:latest
