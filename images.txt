@@ -8,4 +8,4 @@
 
 
 
---platform=linux/amd64 jxxghp/moviepilot-v3:latest
+--platform=linux/amd64 xxystranger/xunlei:beta
