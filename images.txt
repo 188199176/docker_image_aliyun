@@ -8,4 +8,4 @@
 
 
 
---platform=linux/amd64 iyuucn/iyuuplus:latest
+--platform=linux/amd64 linuxserver/transmission:4.0.6
