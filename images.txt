@@ -8,4 +8,4 @@
 
 
 
---platform=linux/amd64 iyuucn/iyuuplus-dev:latest
+--platform=linux/amd64 ghcr.io/zephyruso/zashboard:v3.26.0
